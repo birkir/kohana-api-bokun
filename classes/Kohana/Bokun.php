@@ -7,7 +7,7 @@ class Kohana_Bokun extends Request {
 	const ACTIVITY = '/activity.json';
 	const CAR_RENTAL = '/car-rental.json';
 	const CUSTOMER = '/customer.json';
-	const SHOPPING_CART = '/shopping-car.json';
+	const SHOPPING_CART = '/shopping-cart.json';
 	const BOOKING = '/booking.json';
 
 	// Generally sent with request
